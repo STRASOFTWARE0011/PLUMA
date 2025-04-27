@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Blog Yazısı 1",
+    "content": "İlk blog yazısının içeriği.",
+    "image": "https://raw.githubusercontent.com/kullaniciadi/reposadi/main/images/ilk-resim.jpg",
+    "date": "2025-04-27"
+  },
+  {
+    "id": 2,
+    "title": "Blog Yazısı 2",
+    "content": "İkinci blog yazısının içeriği.",
+    "image": "https://raw.githubusercontent.com/kullaniciadi/reposadi/main/images/ikinci-resim.jpg",
+    "date": "2025-04-28"
+  }
+]
